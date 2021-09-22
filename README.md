@@ -10,6 +10,7 @@ CRUD completo con:
 - Editar producto.
 - Eliminar producto.
 - Visualizacion de datos en tabla. 
+- Buacador de producto. 
 - Interfaz con componentes Java Swing.
 
 ## Vista de la aplicacion
